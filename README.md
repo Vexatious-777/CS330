@@ -1,7 +1,5 @@
 ## CS330 - Computer Graphics (OpenGL)
-
-##Project Overview
-
+---
 This project demonstrates 3D graphics programming using OpenGL to recreate a realistic environment based off of physical objects.
 The scene showcases various computer graphics techniques including realisitic lighting, texture mapping, and interactive camera controls.
 ---
