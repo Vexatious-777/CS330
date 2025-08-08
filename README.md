@@ -68,18 +68,23 @@ Run the project (F5)
 Dependencies
 All required libraries are included in the project:
 
+---
 
 Controls
 
 W, A, S, D: Move camera forward, left, backward, right
+
 Mouse Movement: Look around (first-person view)
+
 Scroll Wheel: Zoom in/out
+
 P: Toggle between perspective and orthographic projection
+
 Esc: Exit application
 ---
 ## Development Process
-This project was developed as part of CS330 Computer Graphics course. The development approach focused on:
 
+This project was developed as part of CS330 Computer Graphics course. The development approach focused on:
 Incremental Learning: Starting with basic OpenGL concepts and progressively adding complexity
 Modular Design: Creating reusable components for shaders, textures, and geometric primitives
 Iterative Refinement: Continuously improving visual quality and performance
@@ -87,9 +92,13 @@ Iterative Refinement: Continuously improving visual quality and performance
 Key Challenges during development
 
 Lighting Calculations: Implementing proper Phong shading with multiple light sources
+
 Texture Coordination: Ensuring seamless texture mapping across complex 3D objects
+
 Camera Mathematics: Developing smooth, intuitive camera controls using quaternions/matrices
+
 Performance Optimization: Efficient rendering of complex scenes with multiple objects
+
 ---
 License
 This project is created for educational purposes as part of CS330 coursework at SNHU.
