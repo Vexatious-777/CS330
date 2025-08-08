@@ -1,10 +1,12 @@
 ## CS330 - Computer Graphics (OpenGL)
 
 #Project Overview
+
 This project demonstrates 3D graphics programming using OpenGL to recreate a realistic environment based off of physical objects.
 The scene showcases various computer graphics techniques including realisitic lighting, texture mapping, and interactive camera controls.
 ---
 ## Screenshot
+
 <img width="997" height="828" alt="Screenshot 2024-12-22 220523" src="https://github.com/user-attachments/assets/9e6e969c-cc8f-4e18-b9b4-aa7768a5b4d0" />
 ---
 ## Features Include
@@ -14,19 +16,23 @@ The scene showcases various computer graphics techniques including realisitic li
 
 ---
 ## Lighting & Shading
+
 - Multiple Light Sources
 - Material Properties
 ---
 ## Texturing
+
 - 2D Texture Mapping: Applied to all 3D objects for realistic surface apperance
 - Texture Filtering
 - Texture Coordinates
 ---
 ## Advanced Features
+
 - Depth Testing to ensure that the z-buffer correctly allows object occlusion
 - Alpha transparency used to enable translucent objects
 ---
 ## Technology Used
+
 - OpenGL
 - GLFW: Window Management and input handling
 - GLAD: OpenGL function loading
